@@ -1,0 +1,9 @@
+.top{
+	background-image: url(../img/images.jpg);
+	height: 300px;
+	background-size: cover;
+}
+img{
+	height: auto;
+	width: 100%;
+}
